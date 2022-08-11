@@ -1,5 +1,5 @@
 const sequelize = require("../config/connection");
-const seedAvengers = require("./avengerSeed");
+const seedAvengers = require("./heroesSeed");
 const seedJustice = require("./justiceSeed");
 
 const seedAll = async () => {
