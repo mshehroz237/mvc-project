@@ -34,7 +34,7 @@ With all of the steps above, you can visit http://localhost:3001 to access the a
 https://dashboard.heroku.com/apps/mvcproject2
 
 # Github Deploment link:
-
+https://github.com/mshehroz237/mvc-project
 
 # Pictures
 <img width="1440" alt="Screen Shot 2022-08-11 at 10 31 47 PM" src="https://user-images.githubusercontent.com/97645096/184274279-22d41536-4eba-4dc6-af6a-2d67cb8e00ac.png">
